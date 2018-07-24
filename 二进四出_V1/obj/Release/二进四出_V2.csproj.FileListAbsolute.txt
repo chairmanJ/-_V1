@@ -1,0 +1,9 @@
+G:\1进3出_6.22\一进三出_V3\一进三出_V2\bin\Release\一进三出_V2.exe.config
+G:\1进3出_6.22\一进三出_V3\一进三出_V2\bin\Release\一进三出_V2.exe
+G:\1进3出_6.22\一进三出_V3\一进三出_V2\bin\Release\一进三出_V2.pdb
+G:\1进3出_6.22\一进三出_V3\一进三出_V2\obj\Release\一进三出_V2.Form1.resources
+G:\1进3出_6.22\一进三出_V3\一进三出_V2\obj\Release\一进三出_V2.Properties.Resources.resources
+G:\1进3出_6.22\一进三出_V3\一进三出_V2\obj\Release\二进四出_V2.csproj.GenerateResource.Cache
+G:\1进3出_6.22\一进三出_V3\一进三出_V2\obj\Release\二进四出_V2.csproj.CoreCompileInputs.cache
+G:\1进3出_6.22\一进三出_V3\一进三出_V2\obj\Release\一进三出_V2.exe
+G:\1进3出_6.22\一进三出_V3\一进三出_V2\obj\Release\一进三出_V2.pdb

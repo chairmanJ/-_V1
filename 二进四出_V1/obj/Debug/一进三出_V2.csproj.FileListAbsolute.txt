@@ -1,0 +1,17 @@
+C:\Users\obil\Desktop\一进三出_V2\一进三出_V2\bin\Debug\一进三出_V2.exe.config
+C:\Users\obil\Desktop\一进三出_V2\一进三出_V2\bin\Debug\一进三出_V2.exe
+C:\Users\obil\Desktop\一进三出_V2\一进三出_V2\bin\Debug\一进三出_V2.pdb
+C:\Users\obil\Desktop\一进三出_V2\一进三出_V2\obj\Debug\一进三出_V2.csprojResolveAssemblyReference.cache
+C:\Users\obil\Desktop\一进三出_V2\一进三出_V2\obj\Debug\一进三出_V2.Form1.resources
+C:\Users\obil\Desktop\一进三出_V2\一进三出_V2\obj\Debug\一进三出_V2.Properties.Resources.resources
+C:\Users\obil\Desktop\一进三出_V2\一进三出_V2\obj\Debug\一进三出_V2.csproj.GenerateResource.Cache
+C:\Users\obil\Desktop\一进三出_V2\一进三出_V2\obj\Debug\一进三出_V2.exe
+C:\Users\obil\Desktop\一进三出_V2\一进三出_V2\obj\Debug\一进三出_V2.pdb
+C:\Users\obil\Desktop\一进三出_V3\一进三出_V2\bin\Debug\一进三出_V2.exe.config
+C:\Users\obil\Desktop\一进三出_V3\一进三出_V2\bin\Debug\一进三出_V2.exe
+C:\Users\obil\Desktop\一进三出_V3\一进三出_V2\bin\Debug\一进三出_V2.pdb
+C:\Users\obil\Desktop\一进三出_V3\一进三出_V2\obj\Debug\一进三出_V2.Form1.resources
+C:\Users\obil\Desktop\一进三出_V3\一进三出_V2\obj\Debug\一进三出_V2.Properties.Resources.resources
+C:\Users\obil\Desktop\一进三出_V3\一进三出_V2\obj\Debug\一进三出_V2.csproj.GenerateResource.Cache
+C:\Users\obil\Desktop\一进三出_V3\一进三出_V2\obj\Debug\一进三出_V2.exe
+C:\Users\obil\Desktop\一进三出_V3\一进三出_V2\obj\Debug\一进三出_V2.pdb
